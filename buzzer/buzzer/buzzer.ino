@@ -5,18 +5,18 @@ pinMode(buzz,OUTPUT);
 }
 
 void loop() {
-tone(buzz, 450);
+tone(buzz, 475);
 delay(200);
 noTone(buzz);
 delay(175);
 tone(buzz, 200);
 delay(200);
 noTone(buzz);
-tone(buzz,425);
+tone(buzz,420);
 delay(200);
 noTone(buzz);
 delay(100);
-tone(buzz,600);
+tone(buzz,545);
 delay(200);
 noTone(buzz);
 delay(50);
