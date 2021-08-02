@@ -20,7 +20,7 @@ tone(buzz,600);
 delay(200);
 noTone(buzz);
 delay(50);
-tone(buzz, 450);
+tone(buzz, 425);
 delay(300);
 noTone(buzz);
 }
